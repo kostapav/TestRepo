@@ -35,4 +35,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Main Test Cases/TC2_Verify Successful Appointment</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>c889f886-ed00-4b92-bf59-a273db5dbde5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Main Test Cases/Test1</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
