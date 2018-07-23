@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>Aga_Test2_Login</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>4a51ce0d-7ec8-48f3-b7cd-64a03a1516de</testCaseGuid>
+   <testCaseGuid>4c4b6a72-1036-4c07-a9bb-a6f7260bd554</testCaseGuid>
 </TestCaseEntity>

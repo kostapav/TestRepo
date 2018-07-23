@@ -15,6 +15,6 @@
       <guid>8f162313-8ebb-405b-96f4-01a036e5c744</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Common Test Cases/Aga_Test1</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases/Aga_Test1_OpenBrowser</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
